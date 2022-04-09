@@ -1,0 +1,4 @@
+[submodule "pine"]
+	path = pine
+	url = https://github.com/GovanifY/pine
+	shallow = true
