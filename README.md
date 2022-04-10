@@ -10,9 +10,11 @@ Check the [Releases](https://github.com/RedPanda4552/RatchetTurretServer/release
 
 ## How To Use
 1. Extract the zip archive wherever you like
-2. Launch PCSX2, and start the game
-3. Run `RatchetTurretServer.bat` (Windows) or `RatchetTurretServer.sh` (Linux)
-4. Leave the command shell which appears open in the background
+2. Launch PCSX2
+3. Enable PINE, if it is not already (System > Game Settings > Configure PINE)
+4. Start the game
+5. Run `RatchetTurretServer.bat` (Windows) or `RatchetTurretServer.sh` (Linux)
+6. Leave the command shell which appears open in the background
 
 *Ratchet Turret Server will automatically shut itself down once it detects the game has changed or PCSX2 has closed.*
 
